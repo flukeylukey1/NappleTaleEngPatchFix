@@ -8,6 +8,7 @@ Thank you to Dereck (ateam) for Universal Dreamcast Patcher and advice on how to
 I have generated a DCP that will apply both Rolly's English Patch & my Memo fix to the original, unmodified Japanese GDI (TOSEC).
 
 Use the Universal Dreamcast Patcher to patch this game:
+
 Napple Tale - Arsia in Daydream v1.006 (2000)(Sega)(JP)[!]
 
 Patch has not been tested with any other disc images or CDI images. 
