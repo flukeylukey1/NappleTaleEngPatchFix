@@ -14,3 +14,6 @@ Napple Tale - Arsia in Daydream v1.006 (2000)(Sega)(JP)[!]
 Patch has not been tested with any other disc images or CDI images. 
 
 Only changes to Rolly's original Eng patch is a rewrite of MEMO.BIN. The bug was caused by malformed string boundaries in the original Eng Patch's MEMO.BIN, which prevented the game from correctly parsing the To-Do, Notes and Requests data. 
+
+CDI version with the same MEMO.BIN fix applied now uploaded to dreamcast-talk for those who burn discs:
+https://www.dreamcast-talk.com/forum/viewtopic.php?t=12228&start=60
